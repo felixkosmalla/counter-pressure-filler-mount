@@ -40,7 +40,7 @@ Links for convenience, no affiliation. OpenBuilds 2020 V-Slot Profiles are used 
 This part can be printed as a whole, standing up. A little carfull bending will losen the hinge. Clean it with something pointy like a flat head screwdriver.
 
 ## 1x Bottom and Top Clamp
-The notches in the top clamp part need to be printed with support structures and then cleaned with a screwdrive or something hook-y. This is tedious, but it did fit for me in the end.
+The notches in the top clamp part need to be printed with support structures and then cleaned with a screwdriver or something [hook-y](https://www.amazon.de/dp/B07JP662XM). This is tedious, but it did fit for me in the end.
 
 
 ## 16x OpenBuilds Connector
