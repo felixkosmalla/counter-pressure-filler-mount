@@ -41,7 +41,7 @@ This part can be printed as a whole, standing up. A little carfull bending will 
 
 ## 1x Bottom and Top Clamp
 The notches in the top clamp part need to be printed with support structures and then cleaned with a screwdriver or something [hook-y](https://www.amazon.de/dp/B07JP662XM). This is tedious, but it did fit for me in the end.
-
+![Clamp Bottom that needs to be cleaned](./images/clamp-render.png "Clamp Bottom that needs to be cleaned")
 
 ## 16x OpenBuilds Connector
 https://www.thingiverse.com/thing:2160166
