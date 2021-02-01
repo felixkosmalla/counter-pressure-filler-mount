@@ -66,7 +66,7 @@ Drill the holes according to the drawing or use a laser cuttter and the provided
 Cut 4 Rings and 6 Ribs out of the MDF according to the pattern in the PDF directory. 
 Glue the bending rig together with hotglue or whatever you have at hand.
 Without removing the protective layer from the plexiglass sheet, wedge the sheet in the bending rig.
-*Make sure that the long end is pointing upwards.*
+**Make sure that the long end is pointing upwards.**
 Start heating up the sheet and smooth, horizontal movements until the sheet starts bending. Work your way up until the sheet is completely bend around the rig.
 
 After cooling, mount the Shield on the shield mount using the M5X10 screws.
@@ -78,9 +78,10 @@ Slide the gantry on the stem.
 
 ![Clamped pressure filler](./images/clamp.jpg "Clamped pressure filler")
 
+
 # Happy Botteling!
 Any comments or improvements? Either submit an issue or create a pull request. If you found this useful, consider [buying me a beer](https://paypal.me/felixkosmalla) ;) 
 
 ![ pressure filler mount](./images/full.jpg "pressure filler mount")
-
+As you can see, I did **not** align the long side upward on the bending rig, resultin in a shorter shield towards the top that I had to cut towards the back. Don't be like me, be smart!
 
