@@ -37,10 +37,11 @@ Links for convenience, no affiliation. OpenBuilds 2020 V-Slot Profiles are used 
 # Parts to Print
 
 ## 1x Shield Mount
-This part can be printed as a whole. A little carfull bending will losen the hinge. Clean it with something pointy like a flat head screwdriver.
+This part can be printed as a whole, standing up. A little carfull bending will losen the hinge. Clean it with something pointy like a flat head screwdriver.
 
 ## 1x Bottom and Top Clamp
 The notches in the top clamp part need to be printed with support structures and then cleaned with a screwdrive or something hook-y. This is tedious, but it did fit for me in the end.
+
 
 ## 16x OpenBuilds Connector
 https://www.thingiverse.com/thing:2160166
@@ -64,7 +65,9 @@ Mount the shield mount with two nuts and bolts at the 7th profile.
 Drill the holes according to the drawing or use a laser cuttter and the provided DXF file.
 Cut 4 Rings and 6 Ribs out of the MDF according to the pattern in the PDF directory. 
 Glue the bending rig together with hotglue or whatever you have at hand.
-Without removing the protective layer from the plexiglass sheet, wedge the sheet in the bending rig and start heating up the sheet and smooth, horizontal movements until the sheet starts bending. Work your way up until the sheet is completely bend around the rig.
+Without removing the protective layer from the plexiglass sheet, wedge the sheet in the bending rig.
+*Make sure that the long end is pointing upwards.*
+Start heating up the sheet and smooth, horizontal movements until the sheet starts bending. Work your way up until the sheet is completely bend around the rig.
 
 After cooling, mount the Shield on the shield mount using the M5X10 screws.
 
