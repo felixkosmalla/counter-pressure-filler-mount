@@ -31,7 +31,7 @@ Links for convenience, no affiliation. OpenBuilds 2020 V-Slot Profiles are used 
 | M5 Nut | Hardware Store | 6 |
 | 2020 OpenBuilds Profile, 20cm | https://shop.myhobby-cnc.de/bauteile/mechanische-bauteile/profile/66/openbuilds-profil-20x20mm | 9 |
 | 2020 OpenBuilds Profile, 70cm | https://shop.myhobby-cnc.de/bauteile/mechanische-bauteile/profile/66/openbuilds-profil-20x20mm | 1 |
-| 2mm Plexiglas, 25cm x 185cm | Hardware Store? | 1 |
+| 2mm Plexiglas, 25cm x 18.5cm | Hardware Store? | 1 |
 | 3mm A3 MDF sheet or plywood | Hardware Store? | 1, maybe 2 to be sure |
 
 # Parts to Print
