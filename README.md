@@ -58,6 +58,8 @@ Mount the stem with the angle at the 5th shorter profile.
 ## Shield Mount
 Mount the shield mount with two nuts and bolts at the 7th profile.
 
+![Assmebled base and mounted stem and shield mount](./images/base_mount.jpg "Assmebled base and mounted stem and shield mount")
+
 ## Shield
 Drill the holes according to the drawing or use a laser cuttter and the provided DXF file.
 Cut 4 Rings and 6 Ribs out of the MDF according to the pattern in the PDF directory. 
@@ -66,7 +68,16 @@ Without removing the protective layer from the plexiglass sheet, wedge the sheet
 
 After cooling, mount the Shield on the shield mount using the M5X10 screws.
 
+## Clamp
+Squeece 4 Nuts in the recesses of the clamp base. Mount the base on the gantry plate.
+Clamp the pressure filler between the clamp base and top using 4 screws, tightening them carefulle and diagonally.
+Slide the gantry on the stem.
+
+![Clamped pressure filler](./images/clamp.jpg "Clamped pressure filler")
+
 # Happy Botteling!
 Any comments or improvements? Either submit an issue or create a pull request. If you found this useful, consider [buying me a beer](https://paypal.me/felixkosmalla) ;) 
+
+![ pressure filler mount](./images/full.jpg "pressure filler mount")
 
 
